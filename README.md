@@ -6,8 +6,7 @@ Breve descripción del proyecto y del problema que busca resolver.
 
 ## Integrantes
 
-- Nombre Apellido
-- Nombre Apellido
+- Mariangeles Muñoz Loza
 
 ## Tecnologías utilizadas
 
