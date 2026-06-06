@@ -1,22 +1,27 @@
-# Nombre del proyecto
+# Bondi fácil
 
 ## Descripción
 
-Breve descripción del proyecto y del problema que busca resolver.
+Creación de una interface web que considere la accesibilidad como principio. Se busca con que cumpla con principios de la WCAG como contraste, el uso de tags semánticos y que permita el cambio de fuente para personas con dislexia. 
+
 
 ## Integrantes
 
 - Mariangeles Muñoz Loza
+- Joaquin Gabriel Sanchez
+- Franco Kumichel
+- Dana Durán
+- Galo Glattstein
+- Sol Chilaca Castro
 
 ## Tecnologías utilizadas
 
-- Tecnología 1
-- Tecnología 2
+- Figma
+- Vue
 
 ## Instalación y ejecución
 
-Pasos necesarios para ejecutar el proyecto.
+
 
 ## Estado actual
-
-Descripción breve del estado del proyecto.
+Actualmente se encuentra en estado de prototipado. 
